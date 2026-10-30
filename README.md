@@ -4,6 +4,7 @@ Welcome to the master directory for SAP exam preparation. Choose your module bel
 
 ## SAP SuccessFactors
 - [C_THR97_2605: SAP SuccessFactors Recruiting](C_THR97_2605.md)
+- [C_THR87_2605: SAP SuccessFactors Variable Pay Study Guide](C_THR87_2605.md)
 
 ## SAP S/4HANA Cloud
 - [C_RISME_2511: RISE with SAP Methodology Scenario Questions](C_RISME_2511.md)
