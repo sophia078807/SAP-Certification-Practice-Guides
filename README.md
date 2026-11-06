@@ -11,3 +11,6 @@ Welcome to the master directory for SAP exam preparation. Choose your module bel
 
 ## SAP Supply Chain Management (SCM)
 - [C_IBP_2608: SAP Integrated Business Planning Study Guide](C_IBP_2608.md)
+
+## SAP Analytics & Data Warehousing
+- [E_BW4HE_2601: SAP BW/4HANA Delta Study Guide](E_BW4HE_2601.md)
