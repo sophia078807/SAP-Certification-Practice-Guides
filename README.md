@@ -9,6 +9,7 @@ Welcome to the master directory for SAP exam preparation. Choose your module bel
 
 ## SAP S/4HANA Cloud
 - [C_RISME_2511: RISE with SAP Methodology Scenario Questions](C_RISME_2511.md)
+- [C_TS470: SAP S/4HANA Cloud Private Edition, Service Study Guide](C_TS470.md)
 
 ## SAP Supply Chain Management (SCM)
 - [C_IBP_2608: SAP Integrated Business Planning Study Guide](C_IBP_2608.md)
